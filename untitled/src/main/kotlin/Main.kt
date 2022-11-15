@@ -4,6 +4,6 @@ fun main(args : Array<String>) {
     Class().a.forEach {
         println("print $it")
 
-        println("gopa")
+        println("gopa 2")
     }
 }
